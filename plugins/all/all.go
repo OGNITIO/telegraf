@@ -14,6 +14,7 @@ import (
 	_ "github.com/influxdb/telegraf/plugins/leofs"
 	_ "github.com/influxdb/telegraf/plugins/lustre2"
 	_ "github.com/influxdb/telegraf/plugins/memcached"
+	_ "github.com/influxdb/telegraf/plugins/mesos"
 	_ "github.com/influxdb/telegraf/plugins/mongodb"
 	_ "github.com/influxdb/telegraf/plugins/mysql"
 	_ "github.com/influxdb/telegraf/plugins/nginx"
